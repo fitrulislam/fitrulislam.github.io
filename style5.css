@@ -1,5 +1,5 @@
 #main {
-  background-image: url("/home/fitrul31/Documents/Roarized/fitrulislam.github.io/img/background2.png")
+  background-image: src("img/background2.png")
 }
 
 header {
